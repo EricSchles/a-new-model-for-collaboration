@@ -11,6 +11,7 @@ Then solutions are synthesized - all solutions are brought together, read, under
 
 This process can be broken down into chuncks:
 
+```
 for idea in ideas:
   Duplication of work for MVP
   Synthesis of MVPs into final MVP
@@ -18,6 +19,7 @@ for idea in ideas:
     Duplication of work for region
     synthesize work for each region
 synthesize ideas
+```
 
 The process then goes as follows:
 
@@ -33,21 +35,27 @@ the high level is collaborated on.  While execution is assumed to be effective f
 
 Proposed areas of doing this:
 
+```
 Managerial level teams
 Full stack web developer teams
 Data Science teams
+```
 
 Advantages:
 
+```
 Increased quality of work
 Richer meetings and conversations
 Strong team integration
 Clear path for getting up to speed on work
 Individuals become stronger, in all tasks, over time
 Fewer cliques
+```
 
 Drawbacks:
 
+```
 Development time is slower
 People work together less so you are more responsible for your own work product
 Less opportunities for pair programming, for working together one on one.
+```
